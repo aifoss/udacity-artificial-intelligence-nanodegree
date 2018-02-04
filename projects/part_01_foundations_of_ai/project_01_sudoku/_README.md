@@ -1,2 +1,2 @@
-Project Submission Includes:
-sudoku.py
+Project Submission:
+- sudoku.py
